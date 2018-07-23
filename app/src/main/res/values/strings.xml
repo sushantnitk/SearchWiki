@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WikiPage Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_wiki">Search</string>
+    <string name="test">In the Google I/O 15, Google released a new support library which implements several components closely related with the Material Designs spec among these components you can find new ViewGroups like the AppbarLayout, CollapsingToolbarLayout and CoordinatorLayout.
+        Well combined and configured these Viewgroups can be very powerful, therefore I have decided to write a post with some configurations and tips. </string>
+</resources>
